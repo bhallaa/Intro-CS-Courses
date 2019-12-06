@@ -1,0 +1,8 @@
+Oregon 100 3
+Lane 80 500 150 2 Eugene Springfield
+Multonomah 100 350 250 3 Portland Gresham Troutdale
+Benton 50 150 250 1 Corvallis
+South_Carolina 200 3
+Pickens 50 500 200 2 Clemson Pickens
+Anderson 80 100 800 2 Anderson Pendleton
+Georgia 40 800 750 1 Atlanta
